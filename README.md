@@ -1,17 +1,34 @@
-## Hi there 👋
 
-<!--
-**GreenTechie-afk/GreenTechie-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hey, I'm KG-
 
-Here are some ideas to get you started:
+Welcome to my corner of GitHub — where engineering meets sustainability, creativity, and edge. I'm an Environmental Engineering student passionate about designing and building tools that make sustainability more accessible, more honest, and way more interesting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm currently studying E Engineering and learning about all the different ways that I can make sustainability accessible
+## 🚀 What I Do
+
+I’m on a mission to discover solutions that blend technical skills, systems thinking, and holistic approaches for the sake of bettering the quality of life around the world. 
+
+- 🌱 Smart Plant Water Reminder – A Wi-Fi-enabled soil moisture system with a 3D-printed mushroom enclosure
+- 🧪 EcoEgo Evaluator – A local desktop app (with optional GPT integration) to rewrite and assess climate communication strategies
+
+## 🔧 Tools & Tech I Use
+
+- Microcontrollers: Arduino Uno, NodeMCU (ESP8266), Raspberry Pi 5  
+- Languages: C++, Python, HTML/CSS, Bash  
+- Other skills: 3D modeling, sensor calibration, UI/UX experimentation, grassroots prototyping
+
+## 🎨 Design Philosophy
+
+I’m a big believer in clarity, simplicity, and being real about the messiness of engineering. My projects aim to be bold, usable, and visually sharp — even when they’re built with duct tape and a dream.
+
+## 📚 Currently Learning
+
+- 💻 How to build privacy-respecting, locally run AI models  
+- 🎥 YouTube content creation and animation workflows  
+- 🇵🇹 Portuguese
+
+## 🤝 Let's Connect
+
+- 🖥️ [My Portfolio Website]
+- 📷 [Instagram]
+- 💌 Always open to collaborations on sustainable tech, creative engineering, or open-source tools
+
