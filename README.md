@@ -32,7 +32,7 @@ Even the scrappy builds deserve elegance.
 
 ## 🤝 Let's Connect
 
-- 🖥️ [My Portfolio Website] (www.kevingonzalezs.com)
-- 📷 [LinkedIn] (www.linkedin.com/in/s-kevingonzalez)
+- 🖥️ [My Portfolio Website](www.kevingonzalezs.com)
+- 📷 [LinkedIn](www.linkedin.com/in/s-kevingonzalez)
 - 💌 Always open to collaborations on sustainable tech, creative engineering, or open-source tools
 
