@@ -1,5 +1,5 @@
 
-## 👋 Hey, I'm KG
+## 👋 Hey, I'm Kevin,
 
 Welcome to my corner of GitHub — where engineering meets sustainability, creativity, and edge. I'm an Environmental Engineering student passionate about designing and building tools that make sustainability more accessible, more honest, and way more interesting.
 
