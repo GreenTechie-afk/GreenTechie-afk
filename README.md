@@ -1,7 +1,7 @@
 
 ## 👋 Hey, I'm Kevin,
 
-Welcome to my corner of GitHub — where engineering meets sustainability, creativity, and edge. I'm an Environmental Engineering student passionate about designing and building tools that make sustainability more accessible, more honest, and way more interesting.
+Welcome to my corner of GitHub — where engineering, systems thinking, and creativity collide. I'm an Environmental Engineering student passionate about designing and building tools that make sustainability more accessible, more honest, and way more interesting.
 
 ## 🚀 What I Do
 
@@ -14,9 +14,14 @@ I’m on a mission to discover solutions that blend technical skills, systems th
 
 ## 🔧 Tools & Tech I Use
 
-**Microcontrollers:** Arduino Uno, ESP8266 (NodeMCU), Raspberry Pi 5  
-**Languages:** C++, Python, HTML/CSS, Bash  
-**Specialties:** Sensor calibration, 3D modeling (Fusion 360 / AutoCAD), UI/UX prototyping, data visualization, systems design  
+**Microcontrollers & IoT:** 
+Arduino Uno, ESP8266 (NodeMCU), Raspberry Pi 5, Sensor arrays
+
+**Software & Programming:** 
+C++, Python, HTML/CSS, Linux (Fedora + Asahi), Fusion 360, AutoCAD, Revit, Adobe Photoshop 
+
+**Domain & Skills:** 
+Environmental sensing, Prototyping, 3D modeling, UI/UX prototyping, Data visualization, Hydraulic & environmental modeling
 
 ## 🎨 Design Philosophy
 
@@ -28,7 +33,7 @@ Even the scrappy builds deserve elegance.
 
 - ⚙️ Building **privacy-respecting local AI models**  
 - 🎬 Creating **animated YouTube explainers** for engineering storytelling  
-- 🇵🇹 Mastering **Portuguese**
+- 🇵🇹  **Portuguese** (Goal: fluent, not tourist-level)
 
 ## 🤝 Let's Connect
 
